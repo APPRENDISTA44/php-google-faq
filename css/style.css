@@ -55,3 +55,17 @@ header nav .utente .icon{
   color: white;
   border-radius: 50%;
 }
+/*MAIN*/
+main .container{
+  width: 70%;
+  margin: auto;
+  padding-bottom: 32px;
+}
+main .container h2{
+  padding-bottom: 20px;
+  padding-top: 64px;
+}
+main .container p{
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
