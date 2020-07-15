@@ -28,12 +28,6 @@ $domande_risposte = [
 
 ];
 
-
-
-
-
-
-
  ?>
 
 
@@ -47,6 +41,33 @@ $domande_risposte = [
     <title>php-google-faq</title>
   </head>
   <body>
+    <div class="wrapper">
+      <header>
+        <div class="up_header">
+          <img src="img/googlelogo.png" alt="logo">
+          <h2>Privacy e termini</h2>
+        </div>
+        <nav>
+          <ul class="menu">
+            <li>Introduzione</li>
+            <li>Norme sulla privacy</li>
+            <li>Termini di servizio</li>
+            <li>Tecnologie</li>
+            <li class="active">Domande frequenti</li>
+          </ul>
+          <div class="utente">
+            <span class="icon">L</span>
+            <span>luca.mail@mail.it</span>
+          </div>
+        </nav>
+      </header>
+    </div>
+    <hr>
+
+
+
+
+
 
 
 
